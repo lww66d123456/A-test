@@ -3,6 +3,9 @@ i--￥￥124uisjjdsdfb
 ##sfhsjh
 ##skdhjfkdhgc
 ##skdhjfkdhgkj
+<<<<<<< HEAD
 axibahello
+123456
+>>>>>>> bran2
 RRRRR   --这是新何如的内容哈哈哈branch1
 
